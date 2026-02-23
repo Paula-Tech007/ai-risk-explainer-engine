@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2026-02-23T12:41:56.529739",
+        "dados": {
+            "request_id": "734aa874-b7a5-4f92-a667-d888fac47cb6",
+            "timestamp": "2026-02-23T12:41:56.529739",
+            "classificacao": "cr\u00edtico",
+            "risk_score": 85,
+            "confianca": "alta",
+            "explicacao": [
+                "Score alto de abuso contribuiu significativamente para o risco",
+                "M\u00faltiplos reports maliciosos aumentaram a confian\u00e7a da amea\u00e7a",
+                "Origem geogr\u00e1fica de alto risco impactou a pontua\u00e7\u00e3o"
+            ],
+            "score_breakdown": {
+                "abuse_score": 36.0,
+                "malicious_reports": 24,
+                "geo_risk": 20
+            },
+            "impacto": "Este indicador apresenta risco com base em sinais correlacionados de amea\u00e7a"
+        }
+    }
+]
