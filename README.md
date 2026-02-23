@@ -165,6 +165,15 @@ Esses são requisitos fundamentais em ambientes corporativos e regulados.
 
 ---
 
+
+## 📸 Demonstração
+
+Requisição real para o endpoint `/explicar` com resposta interpretável:
+
+![Demonstração da API](docs/status.png)
+
+---
+
 ## 👩‍💻 Autora
 
 **Paula Sabino**
